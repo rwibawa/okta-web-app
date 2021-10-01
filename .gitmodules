@@ -1,0 +1,6 @@
+[submodule "okta-web-app-backend"]
+	path = okta-web-app-backend
+	url = git@github.com:rwibawa/okta-web-app-backend.git
+[submodule "okta-web-app-ui"]
+	path = okta-web-app-ui
+	url = git@github.com:rwibawa/okta-web-app-ui.git
